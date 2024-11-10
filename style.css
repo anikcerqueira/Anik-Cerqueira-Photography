@@ -620,7 +620,7 @@ footer {
     /* Inicio Facts */
 
     .facts-box {
-        width: 100%;
+        width: 80%;
         max-width: 400px;
         margin: 0 auto;
     }
