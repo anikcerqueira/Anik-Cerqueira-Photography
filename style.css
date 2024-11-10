@@ -656,7 +656,7 @@ footer {
     #about {
         flex-direction: column-reverse;
         margin: 0 auto; 
-        width: 400px;
+        width: 350px;
         gap: 10px;
         padding: 20px;
     }
